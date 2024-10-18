@@ -1,6 +1,12 @@
 # Git Smart - An Introduction to Git and VCS
 
-
+## What Will You Learn?
+- Introduction to Git and VCS
+- Setting up Git
+- Working with Repositories
+- Basic Git Operations
+- Branching & Merging
+- Collaborating with Github and Many More
 
 ## Add your Name here!!!
 
