@@ -9,6 +9,7 @@
 - Collaborating with Github and Many More
 
 ## Add your Name here!!!
+- Om Kate
 
 
 **How to Contribute**
